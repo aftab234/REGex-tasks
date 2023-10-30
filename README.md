@@ -1,4 +1,9 @@
 # REGex Machine Learning Summer Internship 2021
+
+Task 1: https://github.com/aftab234/regex-task1
+
+Task 2: https://github.com/aftab234/regex-task2
+
 Task 3: Fibonacci numbers, GCD and LCM
 
 Task 4: Exploratory Data Analysis on World University Rankings dataset
